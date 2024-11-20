@@ -1,0 +1,44 @@
+.mamíferos{
+  font-size: medium;
+  font-style: italic;
+ font-family: 'Times New Roman', Times, serif;
+ background-color: darkmagenta;
+}
+ .entorno{
+        font-size: medium;
+        font-style: italic;
+       font-family: 'Times New Roman', Times, serif;
+       background-color: coral;
+    }
+  .desarrollo{
+     font-style: italic;
+        color: blueviolet;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .cuadrado{
+        width:100px;
+    height:100px;
+    background-color: cornflowerblue;
+    }
+
+
+body{
+  background-color: aquamarine; 
+  font-size: medium;
+        font-style: italic;
+       font-family: 'Times New Roman', Times, serif;
+}
+
+.circulo {
+  width: 100px;
+  height:  100px;
+  border-radius: 50%;
+  background: green;
+}
+
+.mediterraneo{
+  font-size: medium;
+  font-style: italic;
+ font-family: 'Times New Roman', Times, serif;
+ background-color: darkred;
+}
